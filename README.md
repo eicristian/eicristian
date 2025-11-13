@@ -27,9 +27,11 @@ Aqui estão as tecnologias e conceitos que venho estudando e trabalhando:
 * CSS3 (Flexbox, Grid, Responsividade)
 * JavaScript (Manipulação do DOM)
 ---
-[![My Skills](https://skillicons.dev/icons?i=aws,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,aws)](https://skillicons.dev)
 
 ---
 ### 📊 Minhas Estatísticas no GitHub
-
-![As estatísticas de GitHub de Cristian](https://github-readme-stats.vercel.app/api?username=eicristian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eicristian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eicristian&layout=compact&langs_count=7&theme=dracula">
+</div>
