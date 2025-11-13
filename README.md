@@ -6,28 +6,25 @@ Atualmente, estou em um momento de evolução de carreira, aprofundando meus con
 
 ---
 
-### 🚀 Conecte-se Comigo
+### As tecnologias e conceitos que venho estudando:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianandree)
-
----
-
-### 💻 Meu "Tech Stack"
-
-Aqui estão as tecnologias e conceitos que venho estudando e trabalhando:
-
-**Cloud & Infraestrutura:**
-* Amazon Web Services (AWS) 
-* Computação em Nuvem
-* Infraestrutura de TI
-* Redes e Telecomunicações
-
-**Desenvolvimento Web (Fundamentos):**
+**Desenvolvimento Web:**
 * HTML5
 * CSS3 (Flexbox, Grid, Responsividade)
 * JavaScript (Manipulação do DOM)
+
+
+**Cloud & Infraestrutura:** 
+* Computação em Nuvem (AWS)
+* Infraestrutura de TI
+* Redes e Telecomunicações
+  
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,aws)](https://skillicons.dev)
+
+---
+### 🚀 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianandree)
 
 ---
 ### 📊 Minhas Estatísticas no GitHub
